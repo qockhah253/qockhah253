@@ -24,5 +24,4 @@ I'm an AI/ML Student at **HUS (Hanoi University of Science)**, passionate about 
 
     ## 📫 Contact
 
-    Feel free to explore my repositories and connect!
-    
+Email: khanhtrieu0305@gmail.com    
