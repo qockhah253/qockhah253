@@ -26,4 +26,3 @@ I'm an AI/ML student at **HUS (Hanoi University of Science)**, passionate about 
 ## 📫 Contact
 
 - 📧 khanhtrieu0305@gmail.com
-- 🤗 [HuggingFace](https://huggingface.co/quockhanh25032005)
