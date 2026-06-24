@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm an AI/ML Student at **HCMUS (Ho Chi Minh City University of Science)**, passionate about **Computer Vision** and **Speech Processing**.
+I'm an AI/ML Student at **HUS (Hanoi University of Science)**, passionate about **Computer Vision** and **Speech Processing**.
 
 ---
 
