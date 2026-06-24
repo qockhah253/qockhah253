@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Quoc Khanh! 👋
 
-<!--
-**qockhah253/qockhah253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+I'm an AI/ML Student at **HCMUS (Ho Chi Minh City University of Science)**, passionate about **Computer Vision** and **Speech Processing**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+- 🎭 **[face-attendance-arcface](https://github.com/qockhah253/face-attendance-arcface)** — Automatic face attendance system using ResNet50 + ArcFace Loss for open-set recognition
+- - 🎬 **[ai-movie-recommender](https://github.com/qockhah253/ai-movie-recommender)** — Movie rating prediction & recommendation using regression models and content-based similarity
+  - - 🔊 **[sepformer-speech-separation](https://github.com/qockhah253/sepformer-speech-separation)** — Speech separation using SepFormer architecture
+   
+    - ---
+
+    ## 🛠️ Tech Stack
+
+    **Languages:** Python, HTML
+    **ML/DL:** PyTorch, Scikit-learn, OpenCV
+    **Tools:** Git, GitHub Actions
+
+    ---
+
+    ## 📫 Contact
+
+    Feel free to explore my repositories and connect!
+    
